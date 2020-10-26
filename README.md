@@ -11,4 +11,4 @@ This video is meant as optional supplemental material to augment the written cur
 ## Resources
 - [Lesson source code](https://github.com/aviflombaum/blog_cli)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-associations-video-review-blog-cli-with-activerecord-and-associations'>ActiveRecord Associations Video Review: Blog CLI with ActiveRecord and Associations</a> on Learn.co and start learning to code for free.</p>
+
